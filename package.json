@@ -1,0 +1,22 @@
+{
+  "name": "disputify",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "7.0.96",
+    "@viz-js/viz": "^3.1.0",
+    "roboto-fontface": "^0.10.0",
+    "vue": "^3.3.4",
+    "vuetify": "^3.3.9",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5",
+    "vite-plugin-vuetify": "^1.0.2"
+  }
+}
